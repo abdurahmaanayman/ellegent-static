@@ -37,7 +37,7 @@ body{
 .up-nav{
     width: 100%;
  /*   background-color: rgba(0, 0, 0, 0.595);
-    position: fixed;
+    position: static;
     z-index: 5;*/
     position: relative;
 }
